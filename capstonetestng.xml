@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="org.qabrains.listener.qa.ItestListen"></listener>
+	</listeners>
+
+	<test name="QABrain Site LoginTest">
+		<classes>
+			<class name="org.qabrains.runner.qa.LoginTestRunner"></class>
+		</classes>
+	</test>
+
+	<test name="QABrain Site RegistrationTest">
+		<classes>
+			<class name="org.qabrains.runner.qa.RegistrationTestRunner"></class>
+		</classes>
+	</test>
+
+	<test name="QABrain Site EcommerceTest">
+		<classes>
+			<class name="org.qabrains.runner.qa.EcommerceTestRunner"></class>
+		</classes>
+	</test>
+
+	<!--
+	Test -->
+</suite> <!--
+Suite -->

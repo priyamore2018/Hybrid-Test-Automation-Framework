@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-17T19:58:19 IST" name="Suite" finished-at="2026-01-17T20:00:23 IST" duration-ms="124288">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2026-01-17T19:58:19 IST" name="QABrain Site LoginTest" finished-at="2026-01-17T19:58:59 IST" duration-ms="40495">
+      <class name="org.qabrains.runner.qa.LoginTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-01-17T19:58:19 IST" name="setUpClass" finished-at="2026-01-17T19:58:20 IST" duration-ms="1308" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1dce481b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-01-17T19:58:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-01-17T19:58:47 IST" duration-ms="26572" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with multiple data of Excel"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality  of QABrains site"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-01-17T19:58:47 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-01-17T19:58:59 IST" duration-ms="12218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with multiple data of Excel"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Functionality  of QABrains site"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-01-17T19:58:59 IST" name="tearDownClass" finished-at="2026-01-17T19:58:59 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- org.qabrains.runner.qa.LoginTestRunner -->
+    </test> <!-- QABrain Site LoginTest -->
+    <test started-at="2026-01-17T19:59:00 IST" name="QABrain Site RegistrationTest" finished-at="2026-01-17T19:59:21 IST" duration-ms="21294">
+      <class name="org.qabrains.runner.qa.RegistrationTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-01-17T19:59:00 IST" name="setUpClass" finished-at="2026-01-17T19:59:00 IST" duration-ms="22" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@22cb8e5f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-01-17T19:59:00 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-01-17T19:59:21 IST" duration-ms="21205" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the Registration Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration Functionality of QABranis"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-01-17T19:59:21 IST" name="tearDownClass" finished-at="2026-01-17T19:59:21 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- org.qabrains.runner.qa.RegistrationTestRunner -->
+    </test> <!-- QABrain Site RegistrationTest -->
+    <test started-at="2026-01-17T19:59:21 IST" name="QABrain Site EcommerceTest" finished-at="2026-01-17T20:00:23 IST" duration-ms="61663">
+      <class name="org.qabrains.runner.qa.EcommerceTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-01-17T19:59:21 IST" name="setUpClass" finished-at="2026-01-17T19:59:21 IST" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@45753c22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-01-17T19:59:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-01-17T19:59:37 IST" duration-ms="15535" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["E-Commerce Site Login with multiple sets of Data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["E-Commerce Site Functionality of QABrains"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-01-17T19:59:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-01-17T20:00:23 IST" duration-ms="46033" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["E-Commerce Site Login with multiple sets of Data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["E-Commerce Site Functionality of QABrains"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //h3[text()='Products']' (tried for 20 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //h3[text()='Products']' (tried for 20 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at org.qabrains.pages.qa.EcommerceLoginPage.ecommerceLoginClick(EcommerceLoginPage.java:40)
+at org.qabrains.stepdefination.qa.ECommerceSiteStepDef.user_should_enter_and_click_on_login_button(ECommerceSiteStepDef.java:56)
+at ✽.User should enter "student@qabrains1.com", "Password123" and click on Login button(file:///Users/hrushi/Desktop/Priyanka/eclipse_workspace/Hybrid-Test-Automation-Framework/src/test/resources/features/ecommercesite.feature:8)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Products']"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0e17fe9a191ac0127f8556e180c2cbb6, findElement {value=//h3[text()='Products'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: /var/folders/nw/1t0dr97n1sd...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49835}, goog:processID: 4966, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49835/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0e17fe9a191ac0127f8556e180c2cbb6
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:142)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:561)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:166)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:384)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:378)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy40.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:308)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:294)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:291)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:662)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:658)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+... 3 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-01-17T20:00:23 IST" name="tearDownClass" finished-at="2026-01-17T20:00:23 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- org.qabrains.runner.qa.EcommerceTestRunner -->
+    </test> <!-- QABrain Site EcommerceTest -->
+  </suite> <!-- Suite -->
+</testng-results>

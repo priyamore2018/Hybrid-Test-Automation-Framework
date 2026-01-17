@@ -1,0 +1,1181 @@
+2026-01-14 23:46:23 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-14 23:46:25 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-14 23:46:25 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-14 23:46:26 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-14 23:46:26 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-14 23:46:26 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-14 23:46:26 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-14 23:46:31 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-14 23:46:31 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-14 23:46:31 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-14 23:46:31 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-14 23:48:11 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-14 23:48:13 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-14 23:48:13 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-14 23:48:14 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-14 23:48:14 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-14 23:48:14 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-14 23:48:14 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-14 23:48:19 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-14 23:48:19 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-14 23:48:19 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-14 23:48:19 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:03:20 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:03:24 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:03:24 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:03:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:03:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:03:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:03:24 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:03:28 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:03:51 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:03:53 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:03:53 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:03:53 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:03:53 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:03:53 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:03:53 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:03:57 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:05:14 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:05:16 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:05:16 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:05:16 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:05:16 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:05:16 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:05:16 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:05:19 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:07:05 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:07:08 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:07:08 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:07:08 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:07:08 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:07:08 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:07:08 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:07:10 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:14:01 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:14:04 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:14:04 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:14:05 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:14:05 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:14:05 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:14:05 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:14:10 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 00:14:10 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 00:14:11 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 00:14:11 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:16:42 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:16:42 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 00:16:43 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:16:48 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:16:51 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:16:51 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:16:51 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:16:51 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:16:51 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:16:51 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:16:56 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 00:16:56 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 00:16:56 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 00:16:57 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:17:57 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:17:57 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 00:17:58 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:18:04 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:18:06 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:18:06 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:18:07 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:18:07 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:18:07 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:18:07 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:18:12 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 00:18:12 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 00:18:12 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 00:18:12 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:20:50 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:20:50 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 00:20:51 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:20:51 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:20:51 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:20:51 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:20:55 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 00:20:55 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 00:20:55 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 00:20:55 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 00:20:56 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:21:01 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:21:05 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:21:05 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:21:05 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:21:05 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:21:05 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:21:05 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:21:09 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 00:21:09 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 00:21:09 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 00:21:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:23:09 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:23:10 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 00:23:10 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:23:10 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:23:10 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:23:10 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:23:14 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 00:23:14 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 00:23:14 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 00:23:14 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 00:23:15 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:23:21 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:23:23 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:23:23 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:23:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:23:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:23:23 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:23:23 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:23:26 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:24:46 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:24:46 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 00:24:46 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:24:46 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:24:46 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:24:46 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:24:51 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 00:24:51 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 00:24:51 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 00:24:51 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 00:24:51 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 00:24:56 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 00:24:58 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 00:24:58 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 00:24:58 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 00:24:58 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 00:24:58 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 00:24:58 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 00:25:05 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 00:25:05 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 00:25:05 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 00:25:06 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 02:22:33 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 02:22:33 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 02:22:34 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 02:22:34 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 02:22:34 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 02:22:34 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 02:22:39 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 02:22:39 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 02:22:39 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 02:22:39 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 02:22:39 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 02:22:44 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 02:22:44 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 02:22:44 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 02:22:44 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 02:22:44 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 02:22:44 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 02:22:48 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 02:22:48 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 02:22:48 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 02:22:48 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 02:22:48 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 02:22:52 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 02:22:54 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 02:22:54 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 02:22:54 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 02:22:54 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 02:22:54 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 02:22:54 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 02:23:01 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 02:23:01 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 02:23:01 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 02:23:01 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:11:19 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:11:19 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:11:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 03:11:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 03:11:20 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 03:11:20 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 03:11:25 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:11:25 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:11:25 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:11:25 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:11:25 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:11:29 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:11:29 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:11:29 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 03:11:29 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 03:11:29 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 03:11:29 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 03:11:32 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:11:32 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:11:32 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:11:33 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:11:33 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:11:36 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:11:39 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 03:11:39 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 03:11:39 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 03:11:39 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 03:11:39 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 03:11:39 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 03:11:46 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 03:11:46 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 03:11:46 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 03:11:46 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:22:40 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:22:40 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:22:40 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 03:22:40 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 03:22:40 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 03:22:40 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 03:22:45 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:22:45 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:22:45 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:22:45 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:22:45 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:22:50 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:22:50 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:22:50 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 03:22:50 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 03:22:50 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 03:22:50 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 03:22:54 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:22:54 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:22:54 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:22:54 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:22:54 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:22:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:23:01 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 03:23:01 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 03:23:01 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 03:23:01 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 03:23:01 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 03:23:01 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 03:23:08 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 03:23:08 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 03:23:08 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 03:23:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:25:14 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:25:14 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:25:15 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 03:25:15 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 03:25:15 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 03:25:15 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 03:25:19 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:25:19 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:25:19 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:25:19 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:25:20 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:25:24 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:25:24 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:25:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-01-15 03:25:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2026-01-15 03:25:24 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2026-01-15 03:25:24 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2026-01-15 03:25:27 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:25:27 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:25:27 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:25:28 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:25:28 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:29:15 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:29:15 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:29:20 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:29:20 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:29:20 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:29:21 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:29:21 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:29:25 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:29:25 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:29:28 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:29:28 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:29:28 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:29:28 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:29:29 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:31:36 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:31:36 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:31:41 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:31:41 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:31:41 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:31:41 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:31:42 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:31:46 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:31:46 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:31:49 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:31:49 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:31:49 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:31:49 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:31:50 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:32:44 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:32:44 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:32:49 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:32:49 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:32:49 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:32:49 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:32:49 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:32:53 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:32:53 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:32:56 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:32:56 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:32:56 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:32:57 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:32:57 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:35:35 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:35:35 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:35:40 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:35:40 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:35:40 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:35:40 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:35:40 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:35:46 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:35:46 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:35:49 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:35:49 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:35:49 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:35:49 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:35:50 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:36:25 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:36:25 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:36:30 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:36:30 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:36:30 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:36:30 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:36:30 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:36:35 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:36:35 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:36:39 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:36:39 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:36:39 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:36:39 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:36:39 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:36:43 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:36:43 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:36:47 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:36:47 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:36:47 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:36:47 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:36:47 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:36:52 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:36:52 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:36:55 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:36:55 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:36:55 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:36:55 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:36:56 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:38:37 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:38:37 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:38:42 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:38:42 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:38:42 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:38:42 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:38:42 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:38:47 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:38:47 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:38:50 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:38:50 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:38:50 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:38:50 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:38:51 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:38:55 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:38:57 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 03:38:57 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 03:39:04 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 03:39:04 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 03:39:04 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 03:39:04 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:46:38 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:46:38 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:46:43 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:46:43 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:46:43 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:46:43 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:46:44 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:46:47 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:46:47 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 03:46:50 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 03:46:50 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 03:46:50 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 03:46:50 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 03:46:51 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 03:46:55 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 03:46:57 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 03:46:57 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 03:47:04 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 03:47:04 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 03:47:04 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 03:47:04 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 04:21:26 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 04:21:26 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 04:21:30 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 04:21:30 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 04:21:33 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 04:21:34 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 04:21:37 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 04:21:37 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 04:45:00 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 04:45:00 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 04:45:05 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 04:45:05 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 04:45:10 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 04:45:10 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 20:03:53 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 20:03:53 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 20:04:08 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 20:04:14 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 20:04:14 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 20:04:21 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 20:04:27 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 20:04:27 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 20:04:35 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 20:15:32 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 20:15:32 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 20:15:37 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 20:15:37 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 20:15:37 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 20:15:38 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 20:15:38 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 20:15:43 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 20:15:43 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 20:15:46 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 20:15:46 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 20:15:47 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 20:15:47 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 20:15:47 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 20:15:53 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 20:15:56 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 20:15:56 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 20:16:02 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:37:05 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:37:05 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 21:37:11 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 21:37:11 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 21:37:11 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 21:37:11 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 21:37:11 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:37:16 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:37:16 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 21:37:20 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 21:37:20 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 21:37:20 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 21:37:20 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 21:37:20 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:37:26 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:37:37 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:38:19 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:38:19 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 21:38:25 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 21:38:25 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 21:38:25 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 21:38:25 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 21:38:25 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:38:31 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:38:31 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 21:38:34 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 21:38:34 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 21:38:34 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 21:38:35 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 21:38:35 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:38:41 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:38:43 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 21:38:43 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 21:38:52 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 21:38:52 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 21:38:52 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 21:38:53 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:38:58 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:38:58 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 21:39:05 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:39:09 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:39:09 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 21:39:17 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 21:39:22 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 21:39:22 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 21:41:12 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:03:56 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:03:56 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:04:02 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:04:02 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:04:02 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 22:04:02 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 22:04:02 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:04:08 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:04:08 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:04:12 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:04:12 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:04:12 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 22:04:12 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 22:04:13 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:04:20 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:04:22 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 22:04:22 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 22:04:32 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 22:04:32 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 22:04:32 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 22:04:32 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:04:38 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:04:38 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:04:45 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:04:48 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:04:48 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:04:55 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:04:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:04:59 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:05:05 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:06:20 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:06:20 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:06:24 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:06:24 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:06:24 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 22:06:24 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 22:06:24 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:06:29 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:06:29 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:06:32 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:06:32 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:06:32 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 22:06:33 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 22:06:33 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:06:39 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:06:41 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 22:06:41 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 22:06:50 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 22:06:50 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 22:06:50 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 22:06:51 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:06:55 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:06:55 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:07:02 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:07:07 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:07:07 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:07:15 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:07:19 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:07:19 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:07:43 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:13:02 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:13:02 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:21:47 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:21:47 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:21:53 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:21:53 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:21:53 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 22:21:53 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 22:21:54 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:21:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:21:59 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:22:03 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:22:03 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:22:03 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-15 22:22:03 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-15 22:22:03 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:22:09 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:22:11 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-15 22:22:11 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-15 22:22:20 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-15 22:22:20 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-15 22:22:20 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-15 22:22:21 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:22:26 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:22:26 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:22:34 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:22:38 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:22:38 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:22:45 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:22:50 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:22:50 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-15 22:23:15 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:26:30 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:26:30 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:26:34 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:26:34 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:26:35 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:31:37 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:31:37 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:31:42 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:31:42 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:31:42 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:32:53 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:32:53 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:32:58 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:32:58 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:32:58 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:34:04 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:34:04 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:34:09 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:34:09 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:34:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:34:09 INFO  ItestListen - Test Case Failure : runScenario
+2026-01-15 22:34:09 INFO  ItestListen - Test Case Failure : runScenario
+2026-01-15 22:35:35 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:35:35 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:35:41 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:35:41 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:35:41 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:35:41 INFO  ItestListen - Test Case Failure : runScenario
+2026-01-15 22:35:41 INFO  ItestListen - Test Case Failure : runScenario
+2026-01-15 22:39:28 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:39:29 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:39:34 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:39:34 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:39:34 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:39:34 INFO  ItestListen - Test Case Failure : runScenario
+2026-01-15 22:39:34 INFO  ItestListen - e= org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: /var/folders/nw/1t0dr97n1sd...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64264}, goog:processID: 40994, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64264/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-15 22:39:40 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 22:39:40 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 22:39:44 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 22:39:44 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 22:39:44 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 22:39:44 INFO  ItestListen - Test Case Failure : runScenario
+2026-01-15 22:39:44 INFO  ItestListen - e= org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.39.0', revision: '126f156aee'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: /var/folders/nw/1t0dr97n1sd...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64341}, goog:processID: 41034, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64341/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-15 23:04:36 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 23:04:36 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 23:04:42 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 23:04:42 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 23:04:42 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 23:04:48 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 23:04:48 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 23:04:52 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 23:04:52 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 23:04:52 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 23:05:52 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 23:05:52 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 23:05:57 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 23:05:57 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 23:05:58 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 23:06:04 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 23:06:04 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 23:06:08 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 23:06:08 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 23:06:08 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 23:10:25 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 23:10:25 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 23:10:29 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 23:10:29 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 23:10:30 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-15 23:10:35 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-15 23:10:36 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-15 23:10:40 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-15 23:10:40 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-15 23:10:40 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:05:16 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:05:16 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:05:21 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:05:21 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:05:21 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:05:28 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:05:28 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:05:32 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:05:32 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:05:32 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:10:31 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:10:31 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:10:37 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:10:37 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:10:37 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:10:37 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:10:37 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:10:42 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:10:42 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:10:45 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:10:45 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:10:45 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:10:46 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:10:46 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:10:51 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:11:25 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:11:25 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:11:30 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:11:30 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:11:30 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:11:30 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:11:31 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:11:36 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:11:36 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:11:40 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:11:40 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:11:40 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:11:40 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:11:40 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:11:45 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:11:47 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 00:11:47 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 00:11:56 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 00:11:56 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 00:11:56 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 00:11:57 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:12:02 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:12:02 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:12:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:12:13 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:12:13 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:12:21 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:12:24 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:12:24 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:12:48 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:18:04 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:18:04 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:18:09 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:18:09 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:18:09 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:18:09 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:18:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:18:09 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:18:09 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:18:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:18:15 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:18:18 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 00:18:18 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 00:18:27 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 00:18:27 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 00:18:27 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 00:18:27 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:18:32 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:18:32 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:18:39 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:18:39 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:18:39 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:18:59 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:18:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:18:59 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:19:19 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:22:07 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:22:09 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:22:14 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:22:14 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:22:14 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:22:14 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:22:14 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:22:15 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:22:17 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:22:20 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:22:20 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:22:20 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:22:20 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:22:20 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:22:26 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:22:30 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 00:22:30 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 00:22:39 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 00:22:39 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 00:22:39 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 00:22:39 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:22:43 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:22:45 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:22:51 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:22:51 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:22:53 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:23:13 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:23:13 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:23:15 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:23:36 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:53:08 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:53:10 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:53:14 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:53:14 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:53:14 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:53:15 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:53:15 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:53:15 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:53:17 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:53:20 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:53:20 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:53:20 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:53:20 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:53:20 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:53:26 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:53:30 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 00:53:30 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 00:53:39 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 00:53:39 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 00:53:39 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 00:53:39 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:53:44 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:53:46 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:53:55 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:53:55 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:53:57 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:54:17 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:54:17 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:54:19 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 00:54:40 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:59:47 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 00:59:49 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 00:59:54 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 00:59:54 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 00:59:54 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 00:59:54 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 00:59:54 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 00:59:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:00:01 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 01:00:04 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 01:00:04 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 01:00:04 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 01:00:04 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 01:00:04 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:00:10 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:00:13 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 01:00:13 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 01:00:22 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 01:00:22 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 01:00:22 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 01:00:23 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:00:28 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:00:30 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:00:36 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:00:40 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:00:43 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:00:48 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:00:52 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:00:54 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:01:17 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:05:35 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:05:37 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 01:05:42 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 01:05:42 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 01:05:42 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 01:05:42 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 01:05:42 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:05:46 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:05:48 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 01:05:51 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 01:05:51 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 01:05:51 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 01:05:52 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 01:05:52 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:05:56 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:05:59 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 01:05:59 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 01:06:08 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 01:06:08 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 01:06:08 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 01:06:08 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:06:12 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:06:14 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:06:20 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:06:25 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:06:27 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:06:32 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:06:36 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:06:38 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:07:01 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:09:38 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:09:40 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 01:09:45 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 01:09:45 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 01:09:45 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 01:09:45 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 01:09:45 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:09:49 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:09:51 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 01:09:54 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 01:09:54 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 01:09:54 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 01:09:55 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 01:09:55 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:09:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:10:03 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 01:10:03 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 01:10:12 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 01:10:12 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 01:10:12 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 01:10:12 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:10:17 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:10:19 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:10:27 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:10:32 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:10:34 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:10:42 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:10:46 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:10:48 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:11:12 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:22:42 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:22:44 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 01:22:50 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 01:22:50 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 01:22:50 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 01:22:50 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 01:22:50 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:22:55 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:22:57 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 01:23:02 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 01:23:02 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 01:23:02 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 01:23:03 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 01:23:03 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:29:57 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:29:59 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:30:20 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 01:30:21 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 01:30:23 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 01:30:52 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 02:09:03 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 02:09:05 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 02:09:10 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 02:09:10 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 02:09:10 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 02:09:10 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 02:09:10 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 02:09:10 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 02:09:12 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 02:09:12 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 02:09:20 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 02:09:23 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 02:09:23 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 02:09:30 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 02:09:36 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 02:09:38 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 02:09:45 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 02:09:45 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 02:09:47 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 02:10:08 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 17:43:41 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 17:43:43 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 17:43:48 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 17:43:48 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 17:43:48 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 17:43:48 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 17:43:48 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 17:43:49 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 17:43:51 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 17:43:54 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 17:43:54 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 17:43:54 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 17:43:54 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 17:43:54 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 17:43:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 17:44:03 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 17:44:03 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 17:44:12 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 17:44:12 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 17:44:12 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 17:44:12 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 17:44:17 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 17:44:19 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 17:44:25 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 17:44:25 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 17:44:27 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 17:44:48 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:16:21 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:16:23 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 18:16:28 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 18:16:28 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 18:16:28 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 18:16:28 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 18:16:28 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:16:32 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:16:34 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 18:16:37 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 18:16:37 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 18:16:37 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 18:16:37 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 18:16:37 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:16:42 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:16:46 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 18:16:46 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 18:16:55 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 18:16:55 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 18:16:55 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 18:16:55 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:16:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:17:01 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 18:17:07 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:17:12 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:17:14 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 18:17:37 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:33:05 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:33:07 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 18:33:12 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 18:33:12 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 18:33:12 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 18:33:12 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 18:33:13 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:35:33 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:35:35 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 18:35:39 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 18:35:39 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 18:35:39 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 18:35:39 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 18:35:39 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:35:44 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:35:48 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 18:35:48 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 18:35:57 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 18:35:57 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 18:35:57 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 18:35:57 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:36:01 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:36:03 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 18:36:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:36:13 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:36:15 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 18:36:38 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:50:27 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:50:29 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 18:50:30 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:58:47 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:58:49 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 18:58:53 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 18:58:53 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 18:58:53 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 18:58:53 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 18:58:54 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:58:59 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:59:01 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 18:59:04 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 18:59:04 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 18:59:04 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 18:59:04 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 18:59:05 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:59:11 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:59:14 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 18:59:14 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 18:59:23 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 18:59:23 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 18:59:23 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 18:59:23 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:59:32 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:59:34 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 18:59:40 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 18:59:45 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 18:59:47 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 19:00:10 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 21:26:03 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 21:26:05 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 21:26:10 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 21:26:10 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 21:26:10 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 21:26:10 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 21:26:11 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 21:26:16 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 21:26:18 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 21:26:23 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 21:26:23 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 21:26:23 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 21:26:23 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 21:26:23 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 21:26:29 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 21:26:33 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 21:26:33 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 21:26:42 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 21:26:42 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 21:26:42 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 21:26:42 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 21:26:47 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 21:26:49 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 21:26:55 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 21:27:01 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 21:27:03 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 21:27:26 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:00:48 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:00:50 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 22:00:55 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 22:00:55 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 22:00:55 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 22:00:55 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 22:00:55 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:01:01 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:01:03 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 22:01:06 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 22:01:06 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 22:01:06 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 22:01:06 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 22:01:06 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:01:12 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:01:16 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 22:01:16 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 22:01:25 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 22:01:25 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 22:01:25 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 22:01:25 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:01:30 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:01:32 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 22:01:38 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:01:44 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:01:46 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 22:02:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:07:43 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:07:45 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 22:07:50 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 22:07:50 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 22:07:50 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 22:07:50 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 22:07:51 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:09:05 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:50:03 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:50:05 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 22:50:10 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 22:50:10 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 22:50:10 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 22:50:10 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 22:50:10 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:50:10 INFO  ItestListen - Test case Passed.
+2026-01-16 22:50:15 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:50:17 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-16 22:50:21 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-16 22:50:21 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-16 22:50:21 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-16 22:50:21 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-16 22:50:21 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:50:21 INFO  ItestListen - Test case Passed.
+2026-01-16 22:50:27 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:50:31 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-16 22:50:31 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-16 22:50:40 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-16 22:50:40 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-16 22:50:40 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-16 22:50:40 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:50:40 INFO  ItestListen - Test case Passed.
+2026-01-16 22:50:48 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:50:50 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 22:50:56 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:50:56 INFO  ItestListen - Test case Passed.
+2026-01-16 22:51:04 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-16 22:51:06 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-16 22:51:30 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-16 22:51:30 ERROR ItestListen - Test case failed. Please refer screenshot.
+2026-01-17 00:39:33 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-17 00:39:35 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-17 00:39:40 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-17 00:39:40 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-17 00:39:40 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-17 00:39:40 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-17 00:39:41 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-17 00:39:41 INFO  ItestListen - Test case Passed.
+2026-01-17 19:58:37 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-17 19:58:39 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-17 19:58:46 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-17 19:58:46 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-17 19:58:46 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-17 19:58:46 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-17 19:58:47 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-17 19:58:47 INFO  ItestListen - Test case Passed.
+2026-01-17 19:58:53 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-17 19:58:55 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-01-17 19:58:59 INFO  LoginPage - Sucessfully click on Login Button.
+2026-01-17 19:58:59 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-01-17 19:58:59 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-01-17 19:58:59 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-01-17 19:58:59 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-17 19:58:59 INFO  ItestListen - Test case Passed.
+2026-01-17 19:59:08 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-17 19:59:12 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-01-17 19:59:12 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-01-17 19:59:21 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-01-17 19:59:21 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-01-17 19:59:21 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-01-17 19:59:21 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-17 19:59:21 INFO  ItestListen - Test case Passed.
+2026-01-17 19:59:26 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-17 19:59:28 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-17 19:59:37 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-17 19:59:37 INFO  ItestListen - Test case Passed.
+2026-01-17 19:59:45 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-01-17 19:59:47 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-01-17 20:00:23 INFO  BrowserHooks - Browser closed Sucessfully
+2026-01-17 20:00:23 ERROR ItestListen - Test case failed. Please refer screenshot.
