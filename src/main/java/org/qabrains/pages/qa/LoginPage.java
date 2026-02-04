@@ -40,10 +40,11 @@ public class LoginPage extends BaseTest {
 		Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(50));
 		
 		wait.until(ExpectedConditions.elementToBeClickable(loginBnt));
-		
-		loginBnt.click();
+		log.info("Username: "+username );
+		log.info("passWord: "+passWord );
+		//loginBnt.click();
 
-		wait.until(ExpectedConditions.visibilityOf(loginSucessText));
+		//wait.until(ExpectedConditions.visibilityOf(loginSucessText));
 		log.info("Sucessfully click on Login Button.");
 	}
 

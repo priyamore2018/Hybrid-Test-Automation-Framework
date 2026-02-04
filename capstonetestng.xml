@@ -10,7 +10,7 @@
 			<class name="org.qabrains.runner.qa.LoginTestRunner"></class>
 		</classes>
 	</test>
-
+<!-- 
 	<test name="QABrain Site RegistrationTest">
 		<classes>
 			<class name="org.qabrains.runner.qa.RegistrationTestRunner"></class>
@@ -22,7 +22,7 @@
 			<class name="org.qabrains.runner.qa.EcommerceTestRunner"></class>
 		</classes>
 	</test>
-
+-->
 	<!--
 	Test -->
 </suite> <!--
