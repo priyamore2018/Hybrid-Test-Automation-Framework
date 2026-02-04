@@ -27,13 +27,13 @@ public class BrowserHooks extends BaseTest {
 	public static void tearDown(Scenario scenario) {
 		ItestListen itestListen = new ItestListen();
 
-		//if (scenario.getStatus().toString() == "FAILED") {
+		if (scenario.getStatus().toString() == "FAILED") {
 			String screenshotPath = ScreenshotUtil.captureScreenshot();
 			log.info("Screenshot captured............");	
 			if (screenshotPath != null) {
 				itestListen.getTest().addScreenCaptureFromPath(screenshotPath);
 			}
-		//}
+		}
 		
 		driver.quit();
 		log.info("Browser closed Sucessfully");
