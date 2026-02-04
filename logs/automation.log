@@ -1739,3 +1739,97 @@ Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 1
 2026-02-04 23:11:27 INFO  BrowserHooks - Screenshot capture............
 2026-02-04 23:11:28 INFO  BrowserHooks - Browser closed Sucessfully
 2026-02-04 23:11:28 INFO  ItestListen - Test case Passed.
+2026-02-05 01:34:02 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:34:04 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-02-05 01:34:09 INFO  LoginPage - Sucessfully click on Login Button.
+2026-02-05 01:34:09 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-02-05 01:34:09 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-02-05 01:34:09 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-02-05 01:34:09 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:34:09 INFO  ItestListen - Test case Passed.
+2026-02-05 01:34:13 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:34:15 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-02-05 01:34:18 INFO  LoginPage - Sucessfully click on Login Button.
+2026-02-05 01:34:18 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-02-05 01:34:18 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-02-05 01:34:18 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-02-05 01:34:18 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:34:18 INFO  ItestListen - Test case Passed.
+2026-02-05 01:34:22 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:34:26 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-02-05 01:34:26 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-02-05 01:34:33 INFO  BrowserHooks - Screenshot captured............
+2026-02-05 01:34:33 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:34:33 ERROR ItestListen - Test case failed. Please refer screenshot.
+2026-02-05 01:34:37 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:34:39 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-02-05 01:34:46 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:34:46 INFO  ItestListen - Test case Passed.
+2026-02-05 01:34:50 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:34:52 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-02-05 01:34:58 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:34:58 INFO  ItestListen - Test case Passed.
+2026-02-05 01:38:25 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:38:27 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-02-05 01:38:32 INFO  LoginPage - Sucessfully click on Login Button.
+2026-02-05 01:38:32 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-02-05 01:38:32 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-02-05 01:38:32 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-02-05 01:38:32 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:38:32 INFO  ItestListen - Test case Passed.
+2026-02-05 01:38:36 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:38:38 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-02-05 01:38:41 INFO  LoginPage - Sucessfully click on Login Button.
+2026-02-05 01:38:41 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-02-05 01:38:41 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-02-05 01:38:41 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-02-05 01:38:42 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:38:42 INFO  ItestListen - Test case Passed.
+2026-02-05 01:38:46 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:38:50 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-02-05 01:38:50 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-02-05 01:38:59 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-02-05 01:38:59 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-02-05 01:38:59 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-02-05 01:38:59 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:38:59 INFO  ItestListen - Test case Passed.
+2026-02-05 01:39:04 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:39:06 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-02-05 01:39:13 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:39:13 INFO  ItestListen - Test case Passed.
+2026-02-05 01:39:17 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:39:19 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-02-05 01:39:25 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:39:25 INFO  ItestListen - Test case Passed.
+2026-02-05 01:41:06 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:41:08 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-02-05 01:41:12 INFO  LoginPage - Sucessfully click on Login Button.
+2026-02-05 01:41:12 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-02-05 01:41:12 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-02-05 01:41:12 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-02-05 01:41:13 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:41:13 INFO  ItestListen - Test case Passed.
+2026-02-05 01:41:17 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:41:19 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-02-05 01:41:22 INFO  LoginPage - Sucessfully click on Login Button.
+2026-02-05 01:41:22 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-02-05 01:41:22 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-02-05 01:41:22 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-02-05 01:41:23 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:41:23 INFO  ItestListen - Test case Passed.
+2026-02-05 01:41:27 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:41:31 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-02-05 01:41:31 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-02-05 01:41:40 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-02-05 01:41:40 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-02-05 01:41:40 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-02-05 01:41:40 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:41:40 INFO  ItestListen - Test case Passed.
+2026-02-05 01:41:45 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:41:47 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-02-05 01:41:53 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:41:53 INFO  ItestListen - Test case Passed.
+2026-02-05 01:41:57 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:41:59 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-02-05 01:42:06 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:42:06 INFO  ItestListen - Test case Passed.

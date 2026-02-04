@@ -2,6 +2,7 @@ package org.qabrains.pages.qa;
 
 import java.time.Duration;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -34,18 +35,17 @@ public class LoginPage extends BaseTest {
 
 
 	public void login(String username, String passWord) {
-		Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(20));
-		wait.until(ExpectedConditions.visibilityOf(email));
 		
 		email.sendKeys(username);
 		password.sendKeys(passWord);
 	
-		
-		wait.until(ExpectedConditions.elementToBeClickable(loginBnt));
-		log.info("Username: "+username );
-		log.info("passWord: "+passWord );
+
+		JavascriptExecutor je = (JavascriptExecutor) driver;
+		je.executeScript("arguments[0].scrollIntoView();", loginBnt);
+
 		loginBnt.click();
 
+		Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(20));
 		wait.until(ExpectedConditions.visibilityOf(loginSucessText));
 		log.info("Sucessfully click on Login Button.");
 	}
