@@ -30,16 +30,10 @@ jobs:
       - name: Install Chromium & Chromedriver
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends chromium-browser chromium-chromedriver || sudo apt-get install -y --no-install-recommends chromium chromium-chromedriver
-          # Ensure chromedriver is on PATH
-          if [ -f /usr/bin/chromedriver ]; then
-            sudo ln -sf /usr/bin/chromedriver /usr/local/bin/chromedriver || true
-          fi
+          sudo apt-get install -y chromium-browser
 
       - name: Verify Chromium & Chromedriver
-        run: |
-          chromium-browser --version || chromium --version || google-chrome --version || echo "chromium not found"
-          chromedriver --version || echo "chromedriver not found"
+        run: chromium-browser --version
 
       - name: Build + run tests (Maven)
         # If the Maven project is in a subfolder uncomment working-directory and set the folder
