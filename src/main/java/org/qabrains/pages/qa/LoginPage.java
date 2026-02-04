@@ -34,10 +34,12 @@ public class LoginPage extends BaseTest {
 
 
 	public void login(String username, String passWord) {
+		Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+		wait.until(ExpectedConditions.visibilityOf(email));
+		
 		email.sendKeys(username);
 		password.sendKeys(passWord);
-		
-		Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(50));
+	
 		
 		wait.until(ExpectedConditions.elementToBeClickable(loginBnt));
 		log.info("Username: "+username );
