@@ -13,10 +13,10 @@ import org.qabrains.base.qa.BaseTest;
 
 public class EcommercePage extends BaseTest{
 
-	@FindBy(xpath = "//span[text()='E-Commerce Site']") WebElement ecommerceLink;
+	@FindBy(xpath = "//span[normalize-space()='E-Commerce Site']") WebElement ecommerceLink;
 	
 	@FindBy(linkText = "Visit Demo Site") WebElement visitDemoLink;
-	@FindBy(xpath = "//h2[text()='Login']")  WebElement ecommerceloginText ;
+	@FindBy(xpath = "//h2[normalize-space()='Login']")  WebElement ecommerceloginText ;
 	
 	Wait<WebDriver> wait= new WebDriverWait(driver, Duration.ofSeconds(20));
 	
