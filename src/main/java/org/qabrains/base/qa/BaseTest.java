@@ -1,5 +1,7 @@
 package org.qabrains.base.qa;
 import java.util.Properties;
+
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -25,7 +27,8 @@ public class BaseTest {
 	        options.addArguments("--disable-dev-shm-usage");
 	        options.addArguments("--disable-gpu");
 	        options.addArguments("--window-size=1920,1080");
-	            
+	        options.addArguments("--start-maximized");
+	        
 			driver = new ChromeDriver(options);
 			
 			//driver = new ChromeDriver();
@@ -34,6 +37,8 @@ public class BaseTest {
 		}
 		driver.get(url);
 		driver.manage().window().maximize();
+		driver.manage().window().setSize(new Dimension(1920, 1080));
+
 
 	}
 

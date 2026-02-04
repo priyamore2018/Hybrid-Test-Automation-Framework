@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-05T01:47:39 IST" name="Suite" finished-at="2026-02-05T01:49:00 IST" duration-ms="80713">
+  <suite started-at="2026-02-05T02:03:09 IST" name="Suite" finished-at="2026-02-05T02:04:31 IST" duration-ms="81642">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
@@ -10,20 +10,20 @@
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2026-02-05T01:47:39 IST" name="QABrain Site LoginTest" finished-at="2026-02-05T01:48:02 IST" duration-ms="22503">
+    <test started-at="2026-02-05T02:03:09 IST" name="QABrain Site LoginTest" finished-at="2026-02-05T02:03:32 IST" duration-ms="23111">
       <class name="org.qabrains.runner.qa.LoginTestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-02-05T01:47:40 IST" name="setUpClass" finished-at="2026-02-05T01:47:40 IST" duration-ms="892" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-02-05T02:03:09 IST" name="setUpClass" finished-at="2026-02-05T02:03:10 IST" duration-ms="939" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@1aca6dc3]]>
+                <![CDATA[org.testng.TestRunner@308be1a3]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-02-05T01:47:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T01:47:53 IST" duration-ms="12333" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-02-05T02:03:10 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T02:03:22 IST" duration-ms="12242" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-02-05T01:47:53 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T01:48:02 IST" duration-ms="8948" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-02-05T02:03:23 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T02:03:32 IST" duration-ms="9519" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -55,26 +55,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-02-05T01:48:02 IST" name="tearDownClass" finished-at="2026-02-05T01:48:02 IST" duration-ms="100" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.LoginTestRunner@5395ea39]" started-at="2026-02-05T02:03:32 IST" name="tearDownClass" finished-at="2026-02-05T02:03:32 IST" duration-ms="162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- org.qabrains.runner.qa.LoginTestRunner -->
     </test> <!-- QABrain Site LoginTest -->
-    <test started-at="2026-02-05T01:48:02 IST" name="QABrain Site RegistrationTest" finished-at="2026-02-05T01:48:20 IST" duration-ms="17147">
+    <test started-at="2026-02-05T02:03:33 IST" name="QABrain Site RegistrationTest" finished-at="2026-02-05T02:03:49 IST" duration-ms="16245">
       <class name="org.qabrains.runner.qa.RegistrationTestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-02-05T01:48:02 IST" name="setUpClass" finished-at="2026-02-05T01:48:03 IST" duration-ms="24" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-02-05T02:03:33 IST" name="setUpClass" finished-at="2026-02-05T02:03:33 IST" duration-ms="31" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@3731e8b6]]>
+                <![CDATA[org.testng.TestRunner@32cde414]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-02-05T01:48:03 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T01:48:20 IST" duration-ms="17088" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-02-05T02:03:33 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T02:03:49 IST" duration-ms="16164" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -90,26 +90,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-02-05T01:48:20 IST" name="tearDownClass" finished-at="2026-02-05T01:48:20 IST" duration-ms="25" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.RegistrationTestRunner@7004e3d]" started-at="2026-02-05T02:03:49 IST" name="tearDownClass" finished-at="2026-02-05T02:03:49 IST" duration-ms="35" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- org.qabrains.runner.qa.RegistrationTestRunner -->
     </test> <!-- QABrain Site RegistrationTest -->
-    <test started-at="2026-02-05T01:48:20 IST" name="QABrain Site EcommerceTest" finished-at="2026-02-05T01:49:00 IST" duration-ms="40504">
+    <test started-at="2026-02-05T02:03:49 IST" name="QABrain Site EcommerceTest" finished-at="2026-02-05T02:04:31 IST" duration-ms="41628">
       <class name="org.qabrains.runner.qa.EcommerceTestRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-02-05T01:48:20 IST" name="setUpClass" finished-at="2026-02-05T01:48:20 IST" duration-ms="21" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-02-05T02:03:49 IST" name="setUpClass" finished-at="2026-02-05T02:03:49 IST" duration-ms="27" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@565efd7d]]>
+                <![CDATA[org.testng.TestRunner@e4bb10b]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-02-05T01:48:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T01:48:32 IST" duration-ms="12023" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-02-05T02:03:49 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T02:04:01 IST" duration-ms="11962" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -125,7 +125,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-02-05T01:48:32 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T01:49:00 IST" duration-ms="28407" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-02-05T02:04:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2026-02-05T02:04:31 IST" duration-ms="29590" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -155,9 +155,9 @@ For documentation on this error, please visit: https://www.selenium.dev/document
 Build info: version: '4.39.0', revision: '126f156aee'
 System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.7.6', java.version: '23'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [229983125eb2baa378fbd2d0c8585aeb, findElement {using=xpath, value=//h3[text()='Products']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.132, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: /var/folders/nw/1t0dr97n1sd...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58649}, goog:processID: 25294, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58649/devtoo..., se:cdpVersion: 144.0.7559.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 229983125eb2baa378fbd2d0c8585aeb
+Command: [67f97e5087bce8256d068a7a5304c7a3, findElement {using=xpath, value=//h3[text()='Products']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.132, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: /var/folders/nw/1t0dr97n1sd...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59044}, goog:processID: 26519, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59044/devtoo..., se:cdpVersion: 144.0.7559.132, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 67f97e5087bce8256d068a7a5304c7a3
 at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
 at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
 at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
@@ -188,7 +188,7 @@ at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-02-05T01:49:00 IST" name="tearDownClass" finished-at="2026-02-05T01:49:00 IST" duration-ms="31" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:org.qabrains.runner.qa.EcommerceTestRunner@588ffeb]" started-at="2026-02-05T02:04:31 IST" name="tearDownClass" finished-at="2026-02-05T02:04:31 IST" duration-ms="27" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
