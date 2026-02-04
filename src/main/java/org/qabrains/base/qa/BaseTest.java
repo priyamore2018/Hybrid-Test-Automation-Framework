@@ -2,6 +2,7 @@ package org.qabrains.base.qa;
 import java.util.Properties;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.qabrains.config.qa.ConfigurationReader;
 
@@ -16,7 +17,12 @@ public class BaseTest {
 		String url = properties.getProperty("url");
 
 		if (browser.equals("chrome")) {
-			driver = new ChromeDriver();
+			//added below lines
+			ChromeOptions co=new ChromeOptions();
+			co.addArguments("--headless=new");
+	        co.addArguments("--disable-gpu");
+			
+			driver = new ChromeDriver(co);
 		}else if(browser.equals("firefox")) {
 			driver=new FirefoxDriver();
 		}
