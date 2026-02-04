@@ -27,17 +27,13 @@ jobs:
           restore-keys: |
             maven-${{ runner.os }}-
 
-      - name: Install Google Chrome
+      - name: Install Chromium & Chromedriver
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget gnupg ca-certificates
-          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-linux.gpg
-          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
-          sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
-
+          sudo apt-get install -y chromium-browser
+          
       - name: Verify Chromium & Chromedriver
-        run: google-chrome --version
+        run: chromium-browser --version
 
       - name: Build + run tests (Maven)
         # If the Maven project is in a subfolder uncomment working-directory and set the folder

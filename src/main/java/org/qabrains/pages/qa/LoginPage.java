@@ -40,10 +40,10 @@ public class LoginPage extends BaseTest {
 		email.sendKeys(username);
 		password.sendKeys(passWord);
 	
-
+/*
 		JavascriptExecutor je = (JavascriptExecutor) driver;
 		je.executeScript("arguments[0].scrollIntoView({block: 'center'});", loginBnt);
-
+*/
 		wait.until(ExpectedConditions.elementToBeClickable(loginBnt));
 		
 		loginBnt.click();
