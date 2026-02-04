@@ -38,6 +38,7 @@ public class LoginPage extends BaseTest {
 		password.sendKeys(passWord);
 		
 		Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(50));
+		
 		wait.until(ExpectedConditions.elementToBeClickable(loginBnt));
 		
 		loginBnt.click();

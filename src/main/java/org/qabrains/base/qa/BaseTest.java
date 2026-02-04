@@ -18,11 +18,17 @@ public class BaseTest {
 
 		if (browser.equals("chrome")) {
 			//added below lines
-			ChromeOptions co=new ChromeOptions();
-			co.addArguments("--headless=new");
-	        co.addArguments("--disable-gpu");
+			ChromeOptions options=new ChromeOptions();
+			//co.addArguments("--headless=new");
+	       // co.addArguments("--disable-gpu");
 			
-			driver = new ChromeDriver(co);
+	        options.addArguments("--headless=new");
+	        options.addArguments("--no-sandbox");
+	        options.addArguments("--disable-dev-shm-usage");
+	        options.addArguments("--disable-gpu");
+	        options.addArguments("--window-size=1920,1080");
+	        
+			driver = new ChromeDriver(options);
 		}else if(browser.equals("firefox")) {
 			driver=new FirefoxDriver();
 		}
