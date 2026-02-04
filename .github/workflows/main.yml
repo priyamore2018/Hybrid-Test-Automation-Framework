@@ -1,4 +1,4 @@
-name: Selenium TestNG Automation Project
+name: Hybrid-Test-Automation-Framework Project
 
 on:
   push:
@@ -39,11 +39,11 @@ jobs:
 
     # IMPORTANT PART — correct Maven directory
     - name: Build project
-      working-directory: SauceDemoAutomation
+     #working-directory: Hybrid-Test-Automation-Framework
       run: mvn clean compile
 
     - name: Run TestNG tests
-      working-directory: SauceDemoAutomation
+     # working-directory: Hybrid-Test-Automation-Framework
       run: mvn test --fail-at-end
 
     - name: Upload TestNG Reports
@@ -51,11 +51,11 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: testng-reports
-        path: SauceDemoAutomation/target/surefire-reports
+        path: target/surefire-reports
 
     - name: Upload Extent Report
       if: always()
       uses: actions/upload-artifact@v4
       with:
         name: extent-report
-        path: SauceDemoAutomation/Report/Extent.html
+        path: Report/Extent.html
