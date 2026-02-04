@@ -36,6 +36,7 @@ public class LoginPage extends BaseTest {
 
 	public void login(String username, String passWord) {
 		
+		Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(20));
 		email.sendKeys(username);
 		password.sendKeys(passWord);
 	
@@ -43,9 +44,11 @@ public class LoginPage extends BaseTest {
 		JavascriptExecutor je = (JavascriptExecutor) driver;
 		je.executeScript("arguments[0].scrollIntoView({block: 'center'});", loginBnt);
 
+		wait.until(ExpectedConditions.elementToBeClickable(loginBnt));
+		
 		loginBnt.click();
 
-		Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+		
 		wait.until(ExpectedConditions.visibilityOf(loginSucessText));
 		log.info("Sucessfully click on Login Button.");
 	}
