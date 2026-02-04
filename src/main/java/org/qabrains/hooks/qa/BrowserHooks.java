@@ -29,7 +29,7 @@ public class BrowserHooks extends BaseTest {
 
 		//if (scenario.getStatus().toString() == "FAILED") {
 			String screenshotPath = ScreenshotUtil.captureScreenshot();
-				
+			log.info("Screenshot capture............");	
 			if (screenshotPath != null) {
 				itestListen.getTest().addScreenCaptureFromPath(screenshotPath);
 			}
