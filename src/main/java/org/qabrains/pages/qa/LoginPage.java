@@ -41,7 +41,7 @@ public class LoginPage extends BaseTest {
 	
 
 		JavascriptExecutor je = (JavascriptExecutor) driver;
-		je.executeScript("arguments[0].scrollIntoView();", loginBnt);
+		je.executeScript("arguments[0].scrollIntoView({block: 'center'});", loginBnt);
 
 		loginBnt.click();
 

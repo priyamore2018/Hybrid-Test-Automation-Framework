@@ -1833,3 +1833,36 @@ Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 1
 2026-02-05 01:41:59 INFO  ECommerceSiteStepDef - User is on Home Page
 2026-02-05 01:42:06 INFO  BrowserHooks - Browser closed Sucessfully
 2026-02-05 01:42:06 INFO  ItestListen - Test case Passed.
+2026-02-05 01:47:46 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:47:48 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-02-05 01:47:52 INFO  LoginPage - Sucessfully click on Login Button.
+2026-02-05 01:47:52 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-02-05 01:47:52 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-02-05 01:47:53 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-02-05 01:47:53 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:47:53 INFO  ItestListen - Test case Passed.
+2026-02-05 01:47:56 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:47:58 INFO  LoginPageStepDef - Step 1 : User is on Login Page
+2026-02-05 01:48:02 INFO  LoginPage - Sucessfully click on Login Button.
+2026-02-05 01:48:02 INFO  LoginPageStepDef - Step for sheetName : User is entering username and password from Excel sheet and click on login button
+2026-02-05 01:48:02 INFO  LoginPageStepDef - Step 3 : user navigate to sucessful login page.
+2026-02-05 01:48:02 INFO  LoginPageStepDef - Step 4 : user click on logout button.
+2026-02-05 01:48:02 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:48:02 INFO  ItestListen - Test case Passed.
+2026-02-05 01:48:06 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:48:10 INFO  RegistrationPage - Sucessfully click on Registration Link
+2026-02-05 01:48:10 INFO  RegistrationPageStepDef - Step 1 : User is on click on Registration link
+2026-02-05 01:48:19 INFO  RegistrationPage - Sucessfully click on SingUp Link
+2026-02-05 01:48:19 INFO  RegistrationPageStepDef - Step 2: User is entering all deatils and click on SignIn Button
+2026-02-05 01:48:19 INFO  RegistrationPageStepDef - Step 3: User will naviate to successful Registration Page
+2026-02-05 01:48:20 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:48:20 INFO  ItestListen - Test case Passed.
+2026-02-05 01:48:24 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:48:26 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-02-05 01:48:32 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:48:32 INFO  ItestListen - Test case Passed.
+2026-02-05 01:48:35 INFO  BrowserHooks - Browser Launch Sucessfully
+2026-02-05 01:48:37 INFO  ECommerceSiteStepDef - User is on Home Page
+2026-02-05 01:49:00 INFO  BrowserHooks - Screenshot captured............
+2026-02-05 01:49:00 INFO  BrowserHooks - Browser closed Sucessfully
+2026-02-05 01:49:00 ERROR ItestListen - Test case failed. Please refer screenshot.
