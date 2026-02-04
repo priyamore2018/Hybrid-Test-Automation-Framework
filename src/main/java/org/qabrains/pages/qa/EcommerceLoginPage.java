@@ -2,6 +2,7 @@ package org.qabrains.pages.qa;
 
 import java.time.Duration;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -21,7 +22,7 @@ public class EcommerceLoginPage extends BaseTest{
 	@FindBy(id = "email") WebElement email;
 	@FindBy(id = "password") WebElement password;
 	@FindBy(xpath = "//button[@type='submit']") WebElement ecommerceLoginBnt;
-	@FindBy(xpath = "//h3[text()='Products']") WebElement productPageHeader;
+	@FindBy(xpath = "//h3[normalize-space()='Products']") WebElement productPageHeader;
 	
 	//public String actualTextEcommLoginText=ecommerceloginText.getText();
 	
@@ -37,7 +38,8 @@ public class EcommerceLoginPage extends BaseTest{
 		
 		ecommerceLoginBnt.click();
 		Wait<WebDriver> wait=new WebDriverWait(driver,Duration.ofSeconds(20));
-		wait.until(ExpectedConditions.elementToBeClickable(productPageHeader));
+		wait.until(ExpectedConditions.visibilityOf(productPageHeader));
+		//wait.until(ExpectedConditions.elementToBeClickable(productPageHeader));
 		
 	}
 	

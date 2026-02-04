@@ -4,15 +4,15 @@
   <listeners>
     <listener class-name="org.qabrains.listener.qa.ItestListen"/>
   </listeners>
-  <test thread-count="5" name="QABrain Site RegistrationTest(failed)">
+  <test thread-count="5" name="QABrain Site EcommerceTest(failed)">
     <classes>
-      <class name="org.qabrains.runner.qa.RegistrationTestRunner">
+      <class name="org.qabrains.runner.qa.EcommerceTestRunner">
         <methods>
           <include name="setUpClass"/>
+          <include name="runScenario" invocation-numbers="0 1"/>
           <include name="tearDownClass"/>
-          <include name="runScenario" invocation-numbers="0"/>
         </methods>
-      </class> <!-- org.qabrains.runner.qa.RegistrationTestRunner -->
+      </class> <!-- org.qabrains.runner.qa.EcommerceTestRunner -->
     </classes>
-  </test> <!-- QABrain Site RegistrationTest(failed) -->
+  </test> <!-- QABrain Site EcommerceTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
