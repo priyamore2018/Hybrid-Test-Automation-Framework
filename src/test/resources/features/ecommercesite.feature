@@ -16,7 +16,7 @@ Then User click on logout
 Examples:
 |username 			    |password     |
 |test@qabrains.com      |Password123  |
-|student@qabrains1.com  |Password123  |
+|student@qabrains.com  |Password123  |
 
 
 
