@@ -8,9 +8,9 @@ on:
 jobs:
   run-tests:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 60
     steps:
-      - name: Checkout source code
+      - name: Checkout source
         uses: actions/checkout@v4
 
       - name: Set up JDK 11
@@ -19,7 +19,7 @@ jobs:
           distribution: temurin
           java-version: '11'
 
-      - name: Cache Maven dependencies
+      - name: Cache Maven local repository
         uses: actions/cache@v4
         with:
           path: ~/.m2
@@ -27,30 +27,63 @@ jobs:
           restore-keys: |
             maven-${{ runner.os }}-
 
-      - name: Install Chromium
+      - name: Install Chromium & Chromedriver
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium-browser || sudo apt-get install -y chromium
+          sudo apt-get install -y --no-install-recommends chromium-browser chromium-chromedriver || sudo apt-get install -y --no-install-recommends chromium chromium-chromedriver
+          # Ensure chromedriver is on PATH
+          if [ -f /usr/bin/chromedriver ]; then
+            sudo ln -sf /usr/bin/chromedriver /usr/local/bin/chromedriver || true
+          fi
 
-      - name: Verify Chromium installation
-        run: chromium-browser --version || chromium --version
+      - name: Verify Chromium & Chromedriver
+        run: |
+          chromium-browser --version || chromium --version || google-chrome --version || echo "chromium not found"
+          chromedriver --version || echo "chromedriver not found"
 
-      - name: Build project
-        run: mvn clean compile
+      - name: Build + run tests (Maven)
+        # If the Maven project is in a subfolder uncomment working-directory and set the folder
+        # working-directory: Hybrid-Test-Automation-Framework
+        run: mvn -B clean test --fail-at-end
+        env:
+          MAVEN_OPTS: "-Duser.timezone=UTC"
 
-      - name: Run TestNG tests
-        run: mvn test --fail-at-end
-
-      - name: Upload TestNG Reports
+      - name: Upload TestNG / Surefire reports
         if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
           name: testng-reports
-          path: target/surefire-reports
+          path: |
+            target/surefire-reports
+            target/failsafe-reports
+            test-output
+            target/cucumber-reports
+            target/cucumber-reports/cucumber.json
 
-      - name: Upload Extent Report
+      - name: Upload Extent HTML report
         if: ${{ always() }}
         uses: actions/upload-artifact@v4
         with:
           name: extent-report
-          path: Report/Extent.html
+          path: |
+            HTMLExtentReport/ExtentReport.html
+            HTMLExtentReport/**
+
+      - name: Upload screenshots and logs
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshots-logs
+          path: |
+            ScreenshotResult
+            logs
+
+      - name: Archive full project build output (optional)
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: workspace-archive
+          path: |
+            target
+            HTMLExtentReport
+            test-output
