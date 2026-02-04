@@ -7,7 +7,7 @@ import org.qabrains.base.qa.BaseTest;
 
 public class UserHomePage extends BaseTest {
 
-	@FindBy(xpath = "//h2[text()='Login Successful']")
+	@FindBy(xpath = "//h2[normalize-space()='Login Successful']")
 	WebElement loginSucessText;
 
 	@FindBy(xpath = "(//button[normalize-space()='Logout'])[1]")

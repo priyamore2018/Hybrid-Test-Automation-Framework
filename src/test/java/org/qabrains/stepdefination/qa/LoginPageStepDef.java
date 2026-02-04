@@ -50,16 +50,16 @@ public class LoginPageStepDef {
 	public void user_should_land_on_the_sucessful_login_home_page() {
 
 		userHomePage = new UserHomePage();
-		//String text = userHomePage.getText();
+		String text = userHomePage.getText();
 
-		//Assert.assertEquals(text, "LOGIN SUCCESSFUL", "*****Login sucessful text is not correct.***");
+		Assert.assertEquals(text, "LOGIN SUCCESSFUL", "*****Login sucessful text is not correct.***");
 		log.info("Step 3 : user navigate to sucessful login page.");
 
 	}
 
 	@Then("User click on logout button from Login Home Page.")
 	public void user_click_on_logout_button_from_login_home_page() {
-		//userHomePage.logout();
+		userHomePage.logout();
 		log.info("Step 4 : user click on logout button.");
 
 	}

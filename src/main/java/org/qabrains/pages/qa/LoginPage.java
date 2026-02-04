@@ -26,10 +26,10 @@ public class LoginPage extends BaseTest {
 	@FindBy(id = "password")
 	WebElement password;
 
-	@FindBy(xpath = "//button[text()='Login']")
+	@FindBy(xpath = "//button[normalize-space()='Login']")
 	WebElement loginBnt;
 
-	@FindBy(xpath = "//h2[text()='Login Successful']")
+	@FindBy(xpath = "//h2[normalize-space()='Login Successful']")
 	WebElement loginSucessText;
 
 
@@ -42,9 +42,9 @@ public class LoginPage extends BaseTest {
 		wait.until(ExpectedConditions.elementToBeClickable(loginBnt));
 		log.info("Username: "+username );
 		log.info("passWord: "+passWord );
-		//loginBnt.click();
+		loginBnt.click();
 
-		//wait.until(ExpectedConditions.visibilityOf(loginSucessText));
+		wait.until(ExpectedConditions.visibilityOf(loginSucessText));
 		log.info("Sucessfully click on Login Button.");
 	}
 
